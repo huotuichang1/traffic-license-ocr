@@ -1,2 +1,2 @@
 # traffic-license-ocr
-german
+germany
